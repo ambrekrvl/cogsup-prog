@@ -7,14 +7,14 @@ square_size = (50,50)
 
 left_square = stimuli.Rectangle(
     size = square_size,
-    colour=(0, 0, 255),
-    position = (-100, 0)
+    colour=(255, 0, 0),
+    position = (-125, 0)
 )
 
 right_square = stimuli.Rectangle(
     size = square_size,
-    colour = (255,0,0),
-    position = (100,0)
+    colour = (0,255,0),
+    position = (125,0)
 )
 
 control.start(subject_id = 1)
