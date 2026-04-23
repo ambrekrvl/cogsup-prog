@@ -1,0 +1,18 @@
+#Expyriment 1.0.0 (Python 3.12.9), .xpe-file, coding: UTF-8
+#date: Thu Apr 23 2026 12:12:27
+#sha1: 5327a1
+#modules: 
+#display: size=(800, 600), window_mode=False, opengl=2
+#os: uname_result(system='Darwin', node='Psy2-PortDell07.descartes.campus', release='25.4.0', version='Darwin Kernel Version 25.4.0: Thu Mar 19 19:33:33 PDT 2026; root:xnu-12377.101.15~1/RELEASE_ARM64_T8140', machine='arm64')
+Time,Type,Event,Value,Detail,Detail2
+14477,design,log,
+#design: #exp: square
+#design: block_cnt,block_id,trial_cnt,trial_id
+14478,design,logged,
+14478,Experiment,started
+14478,Stimulus,presented,1
+14715,Stimulus,presented,0
+15723,Stimulus,presented,1
+18642,Keyboard,received,32,wait
+18642,Experiment,ended
+18657,Stimulus,presented,2
