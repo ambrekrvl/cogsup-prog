@@ -9,7 +9,6 @@ exp= design.Experiment(
 control.initialize(exp)
 
 screen_width, screen_height = exp.screen.size
-
 square_length = screen_width * 0.05
 line_width = 1
 
